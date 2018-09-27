@@ -61,8 +61,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Appearance\CameraRenderOffset.cs" />
     <Compile Include="Assets\Scripts\Linkage\GearRotation.cs" />
+    <Compile Include="Assets\Scripts\Movement\GoForward.cs" />
     <Compile Include="Assets\Scripts\Movement\LoopBG.cs" />
+    <Compile Include="Assets\Scripts\Shader\AdjustOffset.cs" />
     <Compile Include="Assets\Scripts\Test.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/Projects/Git/DreamMachine/DreamMachine/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
